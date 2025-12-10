@@ -73,11 +73,10 @@ Smartan/
 └── README.md # Project documentation
 
 
----
+
 
 ## 🧠 System Workflow
 
-```mermaid
 flowchart TD
 A[Upload Exercise Video] --> B[MediaPipe Pose Detection]
 B --> C[Extract 33 Landmarks (x,y)]
