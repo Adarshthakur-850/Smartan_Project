@@ -1,6 +1,8 @@
 # Smartan_Project
 computer vision project  -- AI Pose Detection & Exercise Form Analysis
 
+code link for Google Colab   https://colab.research.google.com/drive/1OgG4xCJCe-r45Yhy49yRbEZM-VBOjAyg?usp=sharing
+
 README.md (Final Professional Version)
 # 🏋️ Smartan — AI Pose Detection & Exercise Form Analysis
 
